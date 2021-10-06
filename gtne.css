@@ -1,0 +1,36 @@
+body {
+    background-color: black;
+  }
+  h1 {
+    color: black;
+  }
+  h2
+  {
+color: greenyellow;
+  }
+  p {
+    color: greenyellow;
+  }
+  ul
+  {
+color: greenyellow;
+  }
+  .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+  header {
+    background-color: greenyellow;
+    padding: 30px;
+    text-align: center;
+    font-size: 35px;
+    color: black;
+    font-family: fantasy;
+  }
+  p.border {
+    color: gainsboro;
+    border-style: solid;
+  }
